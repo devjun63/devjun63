@@ -12,29 +12,21 @@
 	<a href="https://github.com/devjun63?tab=followers"><img src="https://img.shields.io/github/followers/devjun63?label=Followers&style=social" alt="GitHub Badge"></a>
 <br><br><br><br>
 
-<p align="center">
- <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
-</p>
- 
-<p>
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjun&hide=php,html)](https://github.com/anuraghazra/github-readme-stats)
-</p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=devjun63&show_icons=true&locale=en&theme=chartreuse-dark" alt="devjun63" width="410"/>
-</p>
 
-<br><br><br><br><br><br><br><br>
+
+
 
 ## Technologies currently using
 
 
 <div>
+  <img  alt="java" src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img  alt="spring" src ="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img  alt="bootstrap" src ="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img  alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img  alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   <img  alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img  alt="java" src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img  alt="spring" src ="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
   <img  alt="aws" src ="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-  <img  alt="bootstrap" src ="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
  
 </div>
 
@@ -42,8 +34,8 @@
 
 
 <div>
-  <img  alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
   <img  alt="intellij" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> 
+  <img  alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
   
 
  </div>
@@ -51,19 +43,16 @@
 <br><br><br><br>
 
 <p align="center">
- <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
 </p>
-<br>
+ 
 
-<p align="center">
- <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=devjun63&layout=compact&theme=algolia" alt="devjun63" />
- </a>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=devjun63&show_icons=true&locale=kr&theme=chartreuse-dark" alt="devjun63" width="410"/>
 </p>
 
 
-[linkedin]: https://www.linkedin.com/in/janith-thenuka-herath-1345661a5 
 
-------
+
+
 Credit: [thenuka99](https://github.com/devjun63)
 12/01/2023
