@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 
-<a href="https://devjun.tistory.com/"target="_blank"><img src="https://img.shields.io/badge/Tistory-#000000?style=social&logo=Tistory&logoColor=#000000"/></a>
+<a href="https://devjun.tistory.com/"target="_blank"><img src="https://img.shields.io/badge/tistory-#000000?style=social&logo=tistory&logoColor=#000000"/></a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devjun63&show_icons=true&theme=radical)
