@@ -6,18 +6,12 @@
 <br />
 
 - 🌱 &nbsp;현재 이젠아카데미에서 국비교육 과정을 진행하고 있습니다.
-- 📱tel : &nbsp; **010-7418-4588**
-- 📫 email : **devjun63@gmail.com**
-- 	<img src="https://komarev.com/ghpvc/?username=devjun63&label=Profile%20views&color=brightgreen&style=plastic" alt="thenuka's profile views" /> 
-	<a href="https://github.com/devjun63?tab=followers"><img src="https://img.shields.io/github/followers/devjun63?label=Followers&style=social" alt="GitHub Badge"></a>
+- email : 📧 **devjun63@gmail.com**
+- blog : <a href="https://devjun.tistory.com" target="_blank"><img alt="tistory" src ="https://img.shields.io/badge/tistory-orange?style=flat&logo=java&logoColor=white"/></a>
+
 <br><br><br><br>
 
-
-
-
-
 ## Technologies currently using
-
 
 <div>
   <img  alt="java" src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -30,6 +24,8 @@
  
 </div>
 
+<br><br>
+
 ## Tools currently using
 
 
@@ -37,22 +33,18 @@
   <img  alt="intellij" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> 
   <img  alt="vscode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
   
-
  </div>
  
-<br><br><br><br>
+<br><br>
 
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i>
 </p>
  
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=devjun63&show_icons=true&locale=kr&theme=chartreuse-dark" alt="devjun63" width="410"/>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devjun63&show_icons=true&locale=kr&theme=chartreuse-dark" alt="devjun63" width="410"/>
 </p>
 
 
 
 
-
-Credit: [thenuka99](https://github.com/devjun63)
-12/01/2023
