@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<a href="https://devjun.tistory.com/" target="_blank"><img src=#000000&logoColor=000000"/></a>
+
 <a href="https://devjun.tistory.com/"target="_blank">
 <img src="https://img.shields.io/badge/
 Tistory-#000000?style=social&logo=Tistory&logoColor=#000000"/>
