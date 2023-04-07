@@ -6,10 +6,8 @@
 <br />
 
 - 🌱 &nbsp;현재 이젠아카데미에서 국비교육 과정을 진행하고 있습니다.
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
-- 📫 How to reach me **janithherath2@gmail.com**
-- 📝 I studied at Ananda College 
-- 💬 Ask me about: anything, I am happy to help
+- 📱phone : &nbsp; 010-7418-4588
+- 📫 email : **janithherath2@gmail.com**
 - 	<img src="https://komarev.com/ghpvc/?username=devjun63&label=Profile%20views&color=brightgreen&style=plastic" alt="thenuka's profile views" /> 
 	<a href="https://github.com/devjun63?tab=followers"><img src="https://img.shields.io/github/followers/devjun63?label=Followers&style=social" alt="GitHub Badge"></a>
 <br><br><br><br>
