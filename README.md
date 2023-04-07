@@ -8,6 +8,8 @@
 - 🌱 &nbsp;현재 이젠아카데미에서 국비교육 과정을 진행하고 있습니다.
 - email : 📧 **devjun63@gmail.com**
 - blog : <a href="https://devjun.tistory.com" target="_blank"><img alt="tistory" src ="https://img.shields.io/badge/tistory-orange?style=flat&logo=java&logoColor=white"/></a>
+- project website : **https://catdogforest.shop/**
+- project presentation : **https://youtu.be/TXfGcksxl0o**
 
 <br><br><br><br>
 
@@ -15,11 +17,12 @@
 
 <div>
   <img  alt="java" src ="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img  alt="spring" src ="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img  alt="springboot" src ="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img  alt="MySQL" src ="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img  alt="bootstrap" src ="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img  alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
   <img  alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img  alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img  alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img  alt="aws" src ="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
  
 </div>
@@ -44,7 +47,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devjun63&show_icons=true&locale=kr&theme=chartreuse-dark" alt="devjun63" width="410"/>
 </p>
-
-
-
-
