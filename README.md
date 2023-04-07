@@ -17,7 +17,7 @@
 </p>
  
 <p>
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devjun63&hide=html,php&show_icons=true&locale=en&theme=chartreuse-dark" alt="devjun63" />
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjun&hide=php,html)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=devjun63&show_icons=true&locale=en&theme=chartreuse-dark" alt="devjun63" width="410"/>
 </p>
