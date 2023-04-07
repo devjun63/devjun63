@@ -8,7 +8,8 @@
 - 🌱 &nbsp;현재 이젠아카데미에서 국비교육 과정을 진행하고 있습니다.
 - 📱tel : &nbsp; **010-7418-4588**
 - 📫 email : **devjun63@gmail.com**
-- 	<img src="https://komarev.com/ghpvc/?username=devjun63&label=Profile%20views&color=brightgreen&style=plastic" alt="thenuka's profile views" /> 
+- 	[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devjun63)](https://github.com/devjun63/github-readme-stats)
+- 	[![devjun63's GitHub stats](https://github-readme-stats.vercel.app/api?username=devjun63)](https://github.com/devjun63/github-readme-stats)
 	<a href="https://github.com/devjun63?tab=followers"><img src="https://img.shields.io/github/followers/devjun63?label=Followers&style=social" alt="GitHub Badge"></a>
 <br><br><br><br>
 
