@@ -7,7 +7,7 @@
 
 - 🌱 &nbsp;현재 이젠아카데미에서 국비교육 과정을 진행하고 있습니다.
 - email : 📧 **devjun63@gmail.com**
-- blog : <a href="https://devjun.tistory.com" target="_blank"><img alt="tistory" src ="https://img.shields.io/badge/tistory-orange?style=flat&logo=java&logoColor=white"/></a>
+- blog : **https://devjun.tistory.com/**
 - project website : **https://catdogforest.shop/**
 - project presentation : **https://youtu.be/TXfGcksxl0o**
 
