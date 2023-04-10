@@ -16,7 +16,7 @@
 ## Technologies currently using
 
 <div>
-  <img  alt="java" src ="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white"/>
+  <img  alt="java" src ="https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white"/>
   <img  alt="springboot" src ="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img  alt="MySQL" src ="https://img.shields.io/badge/Mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img  alt="bootstrap" src ="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
