@@ -10,7 +10,7 @@
 - blog : **https://devjun.tistory.com/**
 - project website : **https://catdogforest.shop/**
 - project presentation : **https://youtu.be/TXfGcksxl0o**
-- resume : **<a href="https://drive.google.com/file/d/1C7vAhrDooKO0O7p39jR0iD99CvdUn9is/view?usp=share_link">Google Drive Link</a>**
+- resume : **<a href="https://drive.google.com/file/d/1C7vAhrDooKO0O7p39jR0iD99CvdUn9is/view?usp=share_link" target="_blank">Google Drive Link</a>**
 <br><br><br><br>
 
 ## Technologies currently using
