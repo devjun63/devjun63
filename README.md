@@ -5,7 +5,7 @@
 > SpringBoot와 Mysql을 주로 사용하며 다양한 기술에 관심이 있습니다.
 <br />
 
-- 🌱 &nbsp;현재 이젠아카데미에서 국비교육 과정을 진행하고 있습니다.
+- 🌱 &nbsp;이젠아카데미에서 국비교육 과정을 수료하였습니다.
 - email : 📧 **devjun63@gmail.com**
 - blog : **https://devjun.tistory.com/**
 - project website : **https://catdogforest.shop/**
